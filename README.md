@@ -1,4 +1,4 @@
-# tarot
+# @ceejbot/tarot
 
 Ceej's idiosyncratic fiction-supporting tarot thingie.
 
@@ -6,7 +6,7 @@ All interpretations by me.
 
 ## usage
 
-`npm install -g` to get the `tarot` bin installed.
+`npm install -g @ceejbot/tarot` to get the `tarot` bin installed.
 
 ```
 Commands:
