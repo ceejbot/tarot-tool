@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+test/coverage.html
+.nyc_output
+npm-debug.log
