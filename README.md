@@ -1,5 +1,7 @@
 # @ceejbot/tarot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ceejbot/tarot-tool.svg)](https://greenkeeper.io/)
+
 Ceej's idiosyncratic fiction-supporting tarot thingie.
 
 All interpretations by me.
